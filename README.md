@@ -6,8 +6,8 @@
 [![GitHub abrahamcuenca](https://img.shields.io/github/followers/abrahamcuenca?label=follow&style=social)](https://github.com/abrahamcuenca)
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=abrahamcuenca.abrahamcuenca&color=00cf00)
 
-I am a *Software Engineer at [Edmunds.com](https://technology.edmunds.com/)* 🚘
-I currently work on the CarCode team. In my spare time I play lots of games.
+I am a *Software Engineer at [Edmunds.com](https://technology.edmunds.com/)* 🚘 and a coding bootcamp instructor at [Nucamp.co](https://nucamp.co)
+In my spare time I play lots of games.
 One of my side projects/goals is building a game with Godot.
 
 - 🔭 I’m currently working on an RPG Game
