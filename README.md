@@ -1,4 +1,4 @@
-i### Hi, I'm Abe! 👋👓💻☕
+### Hi, I'm Abe! 👋👓💻☕
 
 [![Twitter: YourWebDevGuy](https://img.shields.io/twitter/follow/yourwebdevguy?style=social)](https://twitter.com/YourWebDevGuy)
 [![Linkedin: AbrahamCuenca](https://img.shields.io/badge/-abrahamcuenca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrahamcuenca/)](https://www.linkedin.com/in/abrahamcuenca/)
