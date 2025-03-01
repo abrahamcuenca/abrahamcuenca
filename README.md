@@ -12,7 +12,7 @@ In my spare time I enjoy making music, photography, drawing, coding and playing 
 - 💬 Ask me about Full-Stack JavaScript (MERN/PERN stack) 💻!
 - 📫 How to reach me: LinkedIn!
 - 😄 Pronouns: He/Him 
-- ⚡ Fun fact: I have a cat named Nacho who is my coding partner!
+- ⚡ Fun fact: I participate in Game Jams on itch.io! Let's jam together!
 
 ---
 ![image](https://github.com/user-attachments/assets/bb1d2aa2-e18b-4e87-9f68-0fe72b054a6e)
