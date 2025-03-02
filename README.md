@@ -16,3 +16,4 @@ In my spare time I enjoy making music, photography, drawing, coding and playing 
 
 ---
 ![image](https://github.com/user-attachments/assets/bb1d2aa2-e18b-4e87-9f68-0fe72b054a6e)
+This is Nacho. He is my cat. I love him very much :D
