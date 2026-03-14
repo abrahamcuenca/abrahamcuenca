@@ -1,2 +1,1 @@
-I'm a Senior Software Engineer.
-I code for fun and profit.
+Senior Software Engineer V | Creative Technologist | Founder
